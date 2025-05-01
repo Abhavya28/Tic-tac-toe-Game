@@ -12,9 +12,10 @@ A simple Tic Tac Toe game built with HTML, CSS, and JavaScript, where two player
 
 
 ## Technologies Used
-- ![HTML](https://img.icons8.com/color/48/000000/html-5.png) **HTML**
-- ![CSS](https://img.icons8.com/color/48/000000/css3.png) **CSS**
-- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) **JavaScript**
+<img src="https://img.icons8.com/color/48/000000/html-5.png" width="30"/> HTML  
+<img src="https://img.icons8.com/color/48/000000/css3.png" width="30"/> CSS  
+<img src="https://img.icons8.com/color/48/000000/javascript.png" width="30"/> JavaScript  
+
 
 ## Installation
 
